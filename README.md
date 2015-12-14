@@ -38,6 +38,7 @@ main_menu.add_field("b", "sub b", None)
 main_menu.show()
 ```
 ##DEMO界面
-###pymenu和pytable界面
-![pymenu和pytable界面](https://github.com/muou55555/TerminalTool/tree/master/res/pymenu.gif "pymenu和pytable界面") 
+pymenu和pytable界面
+![](https://github.com/muou55555/TerminalTool/raw/master/res/example.png)
+
 
