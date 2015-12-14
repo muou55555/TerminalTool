@@ -100,7 +100,7 @@ class Pytable(object):
 if __name__ == '__main__':
     a = Pytable("Table Title", 60, [10, 20, 30])
     a.add_table_header()
-    a.add_row_data(["1 - Home", "2 - Connect", "3 - Stop"])
+    a.add_row_data(["1 - Home", "2 - Telnet", "3 - SSH"])
     a.add_row_data(["4 - Home", "5 - Connect", "6 - Stop"])
     a.add_row_data(["7 - Home"])
     a.show()
