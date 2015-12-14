@@ -1,6 +1,6 @@
 #TerminalTool
 ##项目概述
->>基于python语言开发，表格式终端命令菜单，会在此菜单上添加嵌入式开发中经常用到的工具类方法。目前按业务控制功能、视图、通用包进行分类
+基于python语言开发，表格式终端命令菜单，会在此菜单上添加嵌入式开发中经常用到的工具类方法。目前按业务控制功能、视图、通用包进行分类
 ##一、pytable
 功能说明：表格类，支持按行增加内容；支持多列；支持缺省列时补空；运行是否显示表格标题
 ###1.1 使用方法 
@@ -27,13 +27,17 @@ a.show()
 ```python
 main_menu = Pymenu("Main Menu", [20, 20, 20], back_key = "q")
 ```
-3、添加行数据
+2、添加行数据
 ```python
 main_menu.add_field("1", "Telnet", lambda:fun("Telnet"))
 main_menu.add_field("4", "SSH", fun_test)
 main_menu.add_field("b", "sub b", None)
 ```
-4、显示菜单
+3、显示菜单
 ```python
 main_menu.show()
 ```
+##DEMO界面
+###pymenu和pytable界面
+![pymenu和pytable界面](https://github.com/muou55555/TerminalTool/tree/master/res/example.png "pymenu和pytable界面") 
+
