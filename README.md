@@ -39,5 +39,5 @@ main_menu.show()
 ```
 ##DEMO界面
 ###pymenu和pytable界面
-![pymenu和pytable界面](https://github.com/muou55555/TerminalTool/tree/master/res/example.png "pymenu和pytable界面") 
+![pymenu和pytable界面](https://github.com/muou55555/TerminalTool/tree/master/res/pymenu.gif "pymenu和pytable界面") 
 
