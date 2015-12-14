@@ -1,15 +1,1 @@
-# TerminalTool
-Terminal tools. All in one 
-
-================================================================
-+                          Main Menu                           +
-================================================================
-| [1] - Telnet       | [2] - Ftp          | [3] - Serial       |
-+--------------------+--------------------+--------------------+
-| [4] - SSH          | [5] - Mbus         | [6] - Settings     |
-+--------------------+--------------------+--------------------+
-| [s] - Submenu      | [q] - Quit         |                    |
-+--------------------+--------------------+--------------------+
-
-Select Key[s]: q
-Quit? y or n :y
+<div># TerminalTool</div><div>Terminal tools. All in one</div><div><br></div><div>================================================================</div><div>+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Main Menu &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; +</div><div>================================================================</div><div>| [1] - Telnet &nbsp; &nbsp; | [2] - Ftp &nbsp; &nbsp; &nbsp; | [3] - Serial &nbsp; &nbsp; |</div><div>+--------------------+--------------------+--------------------+</div><div>| [4] - SSH &nbsp; &nbsp; &nbsp; | [5] - Mbus &nbsp; &nbsp; &nbsp;| [6] - Settings &nbsp; &nbsp;|</div><div>+--------------------+--------------------+--------------------+</div><div>| [s] - Submenu &nbsp; &nbsp;| [q] - Quit &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |</div><div>+--------------------+--------------------+--------------------+</div><div><br></div><div><br></div><div>Select Key[s]: q</div><div>Quit? y or n :y</div>
