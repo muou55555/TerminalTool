@@ -1,0 +1,4 @@
+CST @date
+seconds@hwclock -r
+
+
